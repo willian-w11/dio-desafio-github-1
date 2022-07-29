@@ -2,5 +2,7 @@
 ### Desafio de projeto sobre github (DIO/Santander)
 
 ##Links úteis:
+
 [Guia sobre Markdown](https://www.markdownguide.org/basic-syntax/)
+
 [Guia para desenvolvimento Android](https://developer.android.com/)
